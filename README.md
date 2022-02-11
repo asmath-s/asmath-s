@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm asmath</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KarthikNayak024/KarthikNayak024/master/assets/wave.gif" alt="waving hand" width="30px" style="max-width: 100%;">, I'm asmath</h1>
 <h3 align="center">I’m interested in UI/UX and Website Development.</h3>
 
 
