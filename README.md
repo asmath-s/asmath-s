@@ -18,6 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/asmath-hussain-s-56a213210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmath hussain s" height="30" width="40" /></a>
+  <img src="https://camo.githubusercontent.com/b06dfe4665860d8ba66e4a9780d717aa553ce7ad12975cb21aa6d42d16a059ab/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d646e73686b6f266c61796f75743d636f6d70616374267468656d653d6275656679" alt="languages" height="165" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=dnshko&amp;layout=compact&amp;theme=buefy" style="max-width: 100%;">
 </p>
 </p>
 
