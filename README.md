@@ -21,6 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/asmath-s/" target="blank"><img align="center" src="https://asmath.designlyworld.com/icons/linkedin.png" alt="asmath hussain s" height="40" width="240" /></a>
+<a href="https://www.linkedin.com/in/asmath-s/" target="_blank"><img align="center" src="https://asmath.designlyworld.com/icons/linkedin.png" alt="asmath hussain s" height="60" width="20" /></a>
 </p>
 </p>
