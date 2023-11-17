@@ -9,8 +9,8 @@
 <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://asmath.designlyworld.com/icons/js.png" alt="js" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://asmath.designlyworld.com/icons/next.png" alt="next.js" width="140" height="40"/></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://asmath.designlyworld.com/icons/react.png" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://asmath.designlyworld.com/icons/strapi.png" alt="next.js" width="140" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://asmath.designlyworld.com/icons/wordpress.png" alt="next.js" width="140" height="40"/></a>
+<a href="https://strapi.io/" target="_blank" rel="noreferrer"> <img src="https://asmath.designlyworld.com/icons/strapi.png" alt="next.js" width="140" height="40"/></a>
+<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://asmath.designlyworld.com/icons/wordpress.png" alt="next.js" width="140" height="40"/></a>
 </p>
 
 <h3 align="left">Designing Tools:</h3>
