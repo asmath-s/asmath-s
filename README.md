@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://asmath.designlyworld.com/icons/hi.gif" alt="waving hand" width="30px" style="max-width: 100%;">, I'm asmath</h1>
+<h1 align="center">Hi <img src="https://asmath.designlyworld.com/icons/hi." alt="waving hand" width="30px" style="max-width: 100%;">, I'm asmath</h1>
 <h3 align="center">I am a seasoned Front-End Developer with three years of expertise in crafting exceptional web applications. My proficiency extends beyond code, encompassing the seamless deployment and hosting of projects. A specialist in UI/UX design, I bring a meticulous eye for detail to ensure a user-centric experience. Ready to elevate digital landscapes through innovative solutions and a proven track record of successful project delivery.</h3>
 
 <h3 align="left">Technical Skills:</h3>
@@ -21,6 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/asmath-s/" target="blank"><img align="center" src="https://asmath.designlyworld.com/icons/linkedin.png" alt="asmath hussain s" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asmath-s/" target="blank"><img align="center" src="https://asmath.designlyworld.com/icons/linkedin.png" alt="asmath hussain s" height="40" width="240" /></a>
 </p>
 </p>
