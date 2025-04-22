@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="" alt="waving hand" width="30px" style="max-width: 100%;">, I'm asmath</h1>
+<h1 align="center">Hi <img src="/assets/wave-hand.gif" alt="waving hand" width="30px" style="max-width: 100%;">, I'm asmath</h1>
 <h3>Creative Developer with 3 years of expertise in crafting exceptional web applications. My proficiency extends beyond code, encompassing the seamless deployment and hosting of projects. A specialist in UI/UX design, I bring a meticulous eye for detail to ensure a user-centric experience. Ready to elevate digital landscapes through innovative solutions and a proven track record of successful project delivery.</h3>
 
 <h3 align="left">Technical Skills:</h3>
